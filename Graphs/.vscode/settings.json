@@ -1,0 +1,12 @@
+{
+  "files.associations": {
+    "*.html": "html",
+    "iostream": "cpp",
+    "*.tcc": "cpp",
+    "vector": "cpp",
+    "functional": "cpp",
+    "random": "cpp",
+    "regex": "cpp"
+  },
+  "python.formatting.provider": "black"
+}
